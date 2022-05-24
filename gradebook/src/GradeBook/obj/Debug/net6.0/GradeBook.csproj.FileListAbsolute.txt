@@ -1,0 +1,15 @@
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.exe
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.deps.json
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.runtimeconfig.json
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.dll
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.pdb
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfo.cs
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.dll
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\refint\GradeBook.dll
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.pdb
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\GradeBook.genruntimeconfig.cache
+C:\Users\panda\Git\pharms2011\microsoft_prep\gradebook\src\GradeBook\obj\Debug\net6.0\ref\GradeBook.dll
